@@ -1,6 +1,6 @@
 # webpack boilerplate 
 ## commands
-### start 
+### install dependencys
 ```bash
 npm install
 ```
@@ -8,12 +8,12 @@ npm install
 ```bash
 npm run start
 ```
-### dev 
-start a dev server, could be opend at [http://localhost:8080](http://localhost:8080)
+### dev server
+start a dev server, open at [http://localhost:8080](http://localhost:8080)
 ```bash
 npm run dev
 ```
-### deploy
+### deploy to gh-pages branch
 ```bash
 npm run deploy
 ```
