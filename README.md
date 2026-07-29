@@ -2,7 +2,7 @@
 
 ## commands
 
-### install dependencys
+### install dependencies
 
 ```bash
 npm install
